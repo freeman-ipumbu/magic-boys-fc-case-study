@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="assets/magic-boys-fc.webp" width="100%" alt="Magic Boys FC community football team">
+  <img src="assets/magic-boys-fc.webp" width="100%" alt="Magic Boys Football Academy community team">
 </p>
 
 <p align="center">
-  <img src="assets/crest.png" width="148" alt="Magic Boys FC crest">
+  <img src="assets/crest.png" width="148" alt="Magic Boys FA crest">
 </p>
 
-# Magic Boys FC — Community Football, Made Visible
+# Magic Boys Football Academy — Community Football, Made Visible
 
 **[Visit the live website](https://magicboys.pages.dev/)**
 
-Magic Boys FC is a Namibian community football team founded by Coach Naftal to give young people a disciplined, positive place to play, learn and grow. This project turns that purpose into a public identity that can earn trust, attract support and help the club reach future partners.
+Magic Boys Football Academy is a Namibian community academy founded by Coach Naftal to give young people a disciplined, positive place to play, learn and grow. This project turns that purpose into a public identity that can earn trust, attract support and help the academy reach future partners.
 
 ## The brief
 
-The club had heart, photographs and a clear need for stronger visibility—but no cohesive digital home. The work needed to feel energetic and joyful without turning the children into marketing material. It also needed a simple sponsorship path that an interested person could use immediately.
+The academy had heart, photographs and a clear need for stronger visibility—but no cohesive digital home. The work needed to feel energetic and joyful without turning the children into marketing material. It also needed a simple sponsorship path that an interested person could use immediately.
 
 ## What shipped
 
-- A completely reimagined Magic Boys FC crest
+- A completely reimagined Magic Boys FA crest
 - A bright, mobile-first website with a lively match-day rhythm
 - A clear story around football, learning, discipline and belonging
 - Dedicated visibility for the U13, U15 and U20 squads
@@ -55,7 +55,7 @@ Discovery · audio-led story extraction · brand direction · identity design ·
 
 ## Links
 
-- [Magic Boys FC](https://magicboys.pages.dev/)
+- [Magic Boys Football Academy](https://magicboys.pages.dev/)
 - [Runnerz Namibia](https://runnerznamibia.com)
 - [Freeman Ipumbu portfolio](https://freeman-ipumbu.pages.dev/)
 
