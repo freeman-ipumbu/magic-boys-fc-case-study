@@ -61,4 +61,4 @@ Discovery · audio-led story extraction · brand direction · identity design ·
 
 ---
 
-An experience by **SolarSpin Technologies**. Built for the boys, their coaches and the future ahead.
+A Digital Experience by **SolarSpin Technologies**. Built for the boys, their coaches and the future ahead.
